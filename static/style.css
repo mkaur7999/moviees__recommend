@@ -48,6 +48,7 @@ h1 {
     font-weight: bold;
     margin-top: 30px;
     text-shadow: #000000 0px 0px 13px;
+	text-align: center;
  }
 
 .github-corner:hover .octo-arm {
@@ -247,4 +248,11 @@ h6 {
 .fail {
 	display: none;
 	color: white;
+	
+}
+h3{
+	text-align: center;
+}
+h2{
+	text-align: center;
 }
